@@ -1,0 +1,20 @@
+{
+  "name": "xem-vest",
+  "version": "0.0.1",
+  "description": "Simple calculator to help you figure out how long it will take you to vest at 10,000 XEM",
+  "main": "bin/vest.js",
+  "bin": {
+    "xem-vest": "vest.js"
+  },
+  "engines": {
+    "node": ">=8.2"
+  }
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
+}
