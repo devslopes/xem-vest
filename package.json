@@ -5,6 +5,10 @@
   "license": "ISC",
   "author": "",
   "main": "bin/vest.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devslopes/xem-vest.git"
+  },
   "bin": {
     "xem-vest": "bin/vest.js"
   },
